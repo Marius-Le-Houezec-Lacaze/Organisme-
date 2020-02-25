@@ -87,11 +87,11 @@ body {
 }
 
 .party {
-  background: url("Festive-Functions.jpg");
+  background: url("/home/marius/Documents/Organisme-/page/img/Festive-Functions.jpg");
   background-size: cover;
 }
 
 .contact {
-  background: url("contact.png");
+  background: url("/home/marius/Documents/Organisme-/page/img/contact.png");
   background-size: cover;
 }
